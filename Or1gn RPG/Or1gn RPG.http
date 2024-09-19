@@ -1,0 +1,6 @@
+@Or1gn_RPG_HostAddress = http://localhost:5182
+
+GET {{Or1gn_RPG_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
